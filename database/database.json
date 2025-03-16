@@ -1,0 +1,1650 @@
+{
+  "set": {
+    "61489979013@s.whatsapp.net": {
+      "lang": "id",
+      "limit": 0,
+      "uang": 0,
+      "status": 0,
+      "join": true,
+      "public": true,
+      "anticall": true,
+      "original": true,
+      "readsw": false,
+      "autobio": false,
+      "autoread": false,
+      "antispam": false,
+      "autotyping": false,
+      "multiprefix": false,
+      "template": "textMessage"
+    }
+  },
+  "users": {
+    "6285820169622@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741981848799,
+      "lastbegal": 1741981848799,
+      "lastrampok": 1741981848799
+    },
+    "61489979013@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741981854293,
+      "lastbegal": 1741981854293,
+      "lastrampok": 1741981854293
+    },
+    "628151666922@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 99955,
+      "uang": 20000,
+      "lastclaim": 1741982134192,
+      "lastbegal": 1741982134192,
+      "lastrampok": 1741982134192
+    },
+    "6283197306124@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741985069222,
+      "lastbegal": 1741985069222,
+      "lastrampok": 1741985069222
+    },
+    "6281230636229@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": 1742049950935,
+      "afkReason": "nak tido lagi",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741985434985,
+      "lastbegal": 1741985434985,
+      "lastrampok": 1741985434985
+    },
+    "6285692175360@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987614066,
+      "lastbegal": 1741987614066,
+      "lastrampok": 1741987614066
+    },
+    "6281229058350@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987621258,
+      "lastbegal": 1741987621258,
+      "lastrampok": 1741987621258
+    },
+    "6282282894960@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987817969,
+      "lastbegal": 1741987817969,
+      "lastrampok": 1741987817969
+    },
+    "6281232146855@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987835529,
+      "lastbegal": 1741987835529,
+      "lastrampok": 1741987835529
+    },
+    "628885102579@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987885990,
+      "lastbegal": 1741987885990,
+      "lastrampok": 1741987885990
+    },
+    "6283891976995@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987897213,
+      "lastbegal": 1741987897213,
+      "lastrampok": 1741987897213
+    },
+    "6285336805503@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741987949351,
+      "lastbegal": 1741987949351,
+      "lastrampok": 1741987949351
+    },
+    "6285206844507@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741988176827,
+      "lastbegal": 1741988176827,
+      "lastrampok": 1741988176827
+    },
+    "6285721193349@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741990995661,
+      "lastbegal": 1741990995661,
+      "lastrampok": 1741990995661
+    },
+    "6281934944268@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741990996293,
+      "lastbegal": 1741990996293,
+      "lastrampok": 1741990996293
+    },
+    "6288293235167@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741990996386,
+      "lastbegal": 1741990996386,
+      "lastrampok": 1741990996386
+    },
+    "6287730221251@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741991001706,
+      "lastbegal": 1741991001706,
+      "lastrampok": 1741991001706
+    },
+    "6282266007517@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741991001758,
+      "lastbegal": 1741991001758,
+      "lastrampok": 1741991001758
+    },
+    "6287781281722@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741991004055,
+      "lastbegal": 1741991004055,
+      "lastrampok": 1741991004055
+    },
+    "6287728892671@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741994466563,
+      "lastbegal": 1741994466563,
+      "lastrampok": 1741994466563
+    },
+    "6285717071792@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741994911371,
+      "lastbegal": 1741994911371,
+      "lastrampok": 1741994911371
+    },
+    "6285824997453@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741995213428,
+      "lastbegal": 1741995213428,
+      "lastrampok": 1741995213428
+    },
+    "385976415725@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741995213433,
+      "lastbegal": 1741995213433,
+      "lastrampok": 1741995213433
+    },
+    "6282164325446@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741995851733,
+      "lastbegal": 1741995851733,
+      "lastrampok": 1741995851733
+    },
+    "6283139882434@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741996610264,
+      "lastbegal": 1741996610264,
+      "lastrampok": 1741996610264
+    },
+    "6285727785143@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741997005749,
+      "lastbegal": 1741997005749,
+      "lastrampok": 1741997005749
+    },
+    "6285606164961@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741997738647,
+      "lastbegal": 1741997738647,
+      "lastrampok": 1741997738647
+    },
+    "6283841951316@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741998121466,
+      "lastbegal": 1741998121466,
+      "lastrampok": 1741998121466
+    },
+    "6288902893105@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741998201656,
+      "lastbegal": 1741998201656,
+      "lastrampok": 1741998201656
+    },
+    "6285863961578@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741998924628,
+      "lastbegal": 1741998924628,
+      "lastrampok": 1741998924628
+    },
+    "6283861120452@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741998957618,
+      "lastbegal": 1741998957618,
+      "lastrampok": 1741998957618
+    },
+    "6285723198381@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1741999018785,
+      "lastbegal": 1741999018785,
+      "lastrampok": 1741999018785
+    },
+    "6287701656619@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742000305757,
+      "lastbegal": 1742000305757,
+      "lastrampok": 1742000305757
+    },
+    "6289608054989@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742000611557,
+      "lastbegal": 1742000611557,
+      "lastrampok": 1742000611557
+    },
+    "6285727264161@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742000970056,
+      "lastbegal": 1742000970056,
+      "lastrampok": 1742000970056
+    },
+    "62895415117643@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742001813107,
+      "lastbegal": 1742001813107,
+      "lastrampok": 1742001813107
+    },
+    "6282275167334@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742002146356,
+      "lastbegal": 1742002146356,
+      "lastrampok": 1742002146356
+    },
+    "6289514215040@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": 1742050978335,
+      "afkReason": ".....",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742003667225,
+      "lastbegal": 1742003667225,
+      "lastrampok": 1742003667225
+    },
+    "6283140776600@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742003722097,
+      "lastbegal": 1742003722097,
+      "lastrampok": 1742003722097
+    },
+    "6287881443434@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742003772206,
+      "lastbegal": 1742003772206,
+      "lastrampok": 1742003772206
+    },
+    "62857309255605@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742005856433,
+      "lastbegal": 1742005856433,
+      "lastrampok": 1742005856433
+    },
+    "6289602332249@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742006063370,
+      "lastbegal": 1742006063370,
+      "lastrampok": 1742006063370
+    },
+    "6285888303471@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742006933569,
+      "lastbegal": 1742006933569,
+      "lastrampok": 1742006933569
+    },
+    "6285871923546@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742007844389,
+      "lastbegal": 1742007844389,
+      "lastrampok": 1742007844389
+    },
+    "6285700250918@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742008258543,
+      "lastbegal": 1742008258543,
+      "lastrampok": 1742008258543
+    },
+    "62895359670059@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742008598689,
+      "lastbegal": 1742008598689,
+      "lastrampok": 1742008598689
+    },
+    "62895323097376@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742011997911,
+      "lastbegal": 1742011997911,
+      "lastrampok": 1742011997911
+    },
+    "6282294497308@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742013770660,
+      "lastbegal": 1742013770660,
+      "lastrampok": 1742013770660
+    },
+    "6285700574199@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742013785158,
+      "lastbegal": 1742013785158,
+      "lastrampok": 1742013785158
+    },
+    "6281545987992@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742013787852,
+      "lastbegal": 1742013787852,
+      "lastrampok": 1742013787852
+    },
+    "6283854124102@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742013787991,
+      "lastbegal": 1742013787991,
+      "lastrampok": 1742013787991
+    },
+    "6281297334522@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742013803939,
+      "lastbegal": 1742013803939,
+      "lastrampok": 1742013803939
+    },
+    "6285817597752@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742014402302,
+      "lastbegal": 1742014402302,
+      "lastrampok": 1742014402302
+    },
+    "6282239820605@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742014529899,
+      "lastbegal": 1742014529899,
+      "lastrampok": 1742014529899
+    },
+    "6285890808814@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742014739183,
+      "lastbegal": 1742014739183,
+      "lastrampok": 1742014739183
+    },
+    "628818276967@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742015350030,
+      "lastbegal": 1742015350030,
+      "lastrampok": 1742015350030
+    },
+    "6282141235604@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742015481384,
+      "lastbegal": 1742015481384,
+      "lastrampok": 1742015481384
+    },
+    "6285723364201@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742015933006,
+      "lastbegal": 1742015933006,
+      "lastrampok": 1742015933006
+    },
+    "6285714191615@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": 1742050874611,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742016000651,
+      "lastbegal": 1742016000651,
+      "lastrampok": 1742016000651
+    },
+    "6282275215667@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742016518231,
+      "lastbegal": 1742016518231,
+      "lastrampok": 1742016518231
+    },
+    "60145510644@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742016690083,
+      "lastbegal": 1742016690084,
+      "lastrampok": 1742016690084
+    },
+    "6283822735530@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742017611752,
+      "lastbegal": 1742017611752,
+      "lastrampok": 1742017611752
+    },
+    "6281586846435@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742017626316,
+      "lastbegal": 1742017626316,
+      "lastrampok": 1742017626316
+    },
+    "6281936051615@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742018255375,
+      "lastbegal": 1742018255375,
+      "lastrampok": 1742018255375
+    },
+    "6285934652527@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742018267859,
+      "lastbegal": 1742018267859,
+      "lastrampok": 1742018267859
+    },
+    "6288807819754@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742018463692,
+      "lastbegal": 1742018463692,
+      "lastrampok": 1742018463692
+    },
+    "6282241162356@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742019304054,
+      "lastbegal": 1742019304054,
+      "lastrampok": 1742019304054
+    },
+    "6287870911327@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742020208334,
+      "lastbegal": 1742020208334,
+      "lastrampok": 1742020208334
+    },
+    "6281882889385@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742020391547,
+      "lastbegal": 1742020391547,
+      "lastrampok": 1742020391547
+    },
+    "6282140725599@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742020423470,
+      "lastbegal": 1742020423470,
+      "lastrampok": 1742020423470
+    },
+    "6281373338051@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742020563274,
+      "lastbegal": 1742020563274,
+      "lastrampok": 1742020563274
+    },
+    "6282176236136@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742021149316,
+      "lastbegal": 1742021149316,
+      "lastrampok": 1742021149316
+    },
+    "6285136095717@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742021188150,
+      "lastbegal": 1742021188150,
+      "lastrampok": 1742021188150
+    },
+    "6283895159605@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742022076546,
+      "lastbegal": 1742022076546,
+      "lastrampok": 1742022076546
+    },
+    "6288233189302@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742022135317,
+      "lastbegal": 1742022135318,
+      "lastrampok": 1742022135318
+    },
+    "6288740625138@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742023172365,
+      "lastbegal": 1742023172365,
+      "lastrampok": 1742023172365
+    },
+    "6283873934052@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742023193990,
+      "lastbegal": 1742023193990,
+      "lastrampok": 1742023193990
+    },
+    "6287831002597@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742023263441,
+      "lastbegal": 1742023263441,
+      "lastrampok": 1742023263441
+    },
+    "6281312068464@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742023573688,
+      "lastbegal": 1742023573688,
+      "lastrampok": 1742023573688
+    },
+    "62895339230585@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742024033685,
+      "lastbegal": 1742024033685,
+      "lastrampok": 1742024033685
+    },
+    "6281410240389@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742024152058,
+      "lastbegal": 1742024152058,
+      "lastrampok": 1742024152058
+    },
+    "6282225342216@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742024370855,
+      "lastbegal": 1742024370855,
+      "lastrampok": 1742024370855
+    },
+    "6281233438404@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742024482564,
+      "lastbegal": 1742024482564,
+      "lastrampok": 1742024482564
+    },
+    "6289508377907@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742026688387,
+      "lastbegal": 1742026688387,
+      "lastrampok": 1742026688387
+    },
+    "6285830588322@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742027313439,
+      "lastbegal": 1742027313439,
+      "lastrampok": 1742027313439
+    },
+    "6285343985093@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742029010517,
+      "lastbegal": 1742029010517,
+      "lastrampok": 1742029010517
+    },
+    "6283188229366@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742029148860,
+      "lastbegal": 1742029148860,
+      "lastrampok": 1742029148860
+    },
+    "6281330891288@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742029326916,
+      "lastbegal": 1742029326916,
+      "lastrampok": 1742029326916
+    },
+    "6285783903981@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742031053029,
+      "lastbegal": 1742031053029,
+      "lastrampok": 1742031053029
+    },
+    "120363384742227772@newsletter": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742032894916,
+      "lastbegal": 1742032894916,
+      "lastrampok": 1742032894916
+    },
+    "62882001104515@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742032996470,
+      "lastbegal": 1742032996470,
+      "lastrampok": 1742032996470
+    },
+    "6282183827731@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742033395538,
+      "lastbegal": 1742033395538,
+      "lastrampok": 1742033395538
+    },
+    "6285669940570@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742033649008,
+      "lastbegal": 1742033649008,
+      "lastrampok": 1742033649008
+    },
+    "6282226749539@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742034687578,
+      "lastbegal": 1742034687578,
+      "lastrampok": 1742034687578
+    },
+    "15517868408@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742035530988,
+      "lastbegal": 1742035530988,
+      "lastrampok": 1742035530988
+    },
+    "6285143253875@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742035913081,
+      "lastbegal": 1742035913081,
+      "lastrampok": 1742035913081
+    },
+    "6287732999674@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742036277256,
+      "lastbegal": 1742036277256,
+      "lastrampok": 1742036277256
+    },
+    "6282163807697@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742036652469,
+      "lastbegal": 1742036652469,
+      "lastrampok": 1742036652469
+    },
+    "6285654430763@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742037322825,
+      "lastbegal": 1742037322825,
+      "lastrampok": 1742037322825
+    },
+    "6283845002507@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742037643687,
+      "lastbegal": 1742037643687,
+      "lastrampok": 1742037643687
+    },
+    "6289662671744@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 49,
+      "uang": 10000,
+      "lastclaim": 1742038145558,
+      "lastbegal": 1742038145558,
+      "lastrampok": 1742038145558
+    },
+    "6282344345029@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742038793679,
+      "lastbegal": 1742038793679,
+      "lastrampok": 1742038793679
+    },
+    "6282135497104@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742039893339,
+      "lastbegal": 1742039893339,
+      "lastrampok": 1742039893339
+    },
+    "6282143157122@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742039974666,
+      "lastbegal": 1742039974666,
+      "lastrampok": 1742039974666
+    },
+    "6285864131318@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742041053782,
+      "lastbegal": 1742041053782,
+      "lastrampok": 1742041053782
+    },
+    "33189310806@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742041095714,
+      "lastbegal": 1742041095714,
+      "lastrampok": 1742041095714
+    },
+    "6285774434651@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742041228830,
+      "lastbegal": 1742041228830,
+      "lastrampok": 1742041228830
+    },
+    "6289612948899@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742041967355,
+      "lastbegal": 1742041967355,
+      "lastrampok": 1742041967355
+    },
+    "6289519313274@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742045351808,
+      "lastbegal": 1742045351808,
+      "lastrampok": 1742045351808
+    },
+    "6287715535152@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742045817826,
+      "lastbegal": 1742045817826,
+      "lastrampok": 1742045817826
+    },
+    "6282268472978@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742045904521,
+      "lastbegal": 1742045904521,
+      "lastrampok": 1742045904521
+    },
+    "6281385591148@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742046209128,
+      "lastbegal": 1742046209128,
+      "lastrampok": 1742046209128
+    },
+    "6282179773931@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742046860118,
+      "lastbegal": 1742046860118,
+      "lastrampok": 1742046860118
+    },
+    "6285189549271@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742047716740,
+      "lastbegal": 1742047716740,
+      "lastrampok": 1742047716740
+    },
+    "60187776095@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742047728412,
+      "lastbegal": 1742047728412,
+      "lastrampok": 1742047728412
+    },
+    "6285924133046@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742051040939,
+      "lastbegal": 1742051040939,
+      "lastrampok": 1742051040939
+    },
+    "6285240429483@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742051262451,
+      "lastbegal": 1742051262451,
+      "lastrampok": 1742051262451
+    },
+    "6283837288020@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742056575066,
+      "lastbegal": 1742056575066,
+      "lastrampok": 1742056575066
+    },
+    "6289693713388@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742056656410,
+      "lastbegal": 1742056656410,
+      "lastrampok": 1742056656410
+    },
+    "6281311919482@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742056670001,
+      "lastbegal": 1742056670001,
+      "lastrampok": 1742056670001
+    },
+    "6283896450426@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742061919841,
+      "lastbegal": 1742061919841,
+      "lastrampok": 1742061919841
+    },
+    "6285972551172@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742063163849,
+      "lastbegal": 1742063163849,
+      "lastrampok": 1742063163849
+    },
+    "6283897586429@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742063315579,
+      "lastbegal": 1742063315579,
+      "lastrampok": 1742063315579
+    },
+    "6283125779163@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067731998,
+      "lastbegal": 1742067731998,
+      "lastrampok": 1742067731998
+    },
+    "6289653699841@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067741366,
+      "lastbegal": 1742067741366,
+      "lastrampok": 1742067741366
+    },
+    "6289618451547@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067774265,
+      "lastbegal": 1742067774265,
+      "lastrampok": 1742067774265
+    },
+    "6285961070322@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067792951,
+      "lastbegal": 1742067792951,
+      "lastrampok": 1742067792951
+    },
+    "6283892240774@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067807737,
+      "lastbegal": 1742067807737,
+      "lastrampok": 1742067807737
+    },
+    "6285706288003@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067811351,
+      "lastbegal": 1742067811351,
+      "lastrampok": 1742067811351
+    },
+    "6282380838680@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742067813825,
+      "lastbegal": 1742067813825,
+      "lastrampok": 1742067813825
+    },
+    "6285748317756@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742068076429,
+      "lastbegal": 1742068076429,
+      "lastrampok": 1742068076429
+    },
+    "6283169296805@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742068356750,
+      "lastbegal": 1742068356750,
+      "lastrampok": 1742068356750
+    },
+    "6287745658824@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742068400722,
+      "lastbegal": 1742068400722,
+      "lastrampok": 1742068400722
+    },
+    "6285796284218@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742069142979,
+      "lastbegal": 1742069142979,
+      "lastrampok": 1742069142979
+    },
+    "62895383120882@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742069447818,
+      "lastbegal": 1742069447818,
+      "lastrampok": 1742069447818
+    },
+    "6289696324113@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742069504674,
+      "lastbegal": 1742069504674,
+      "lastrampok": 1742069504674
+    },
+    "6282189409416@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742069629614,
+      "lastbegal": 1742069629614,
+      "lastrampok": 1742069629614
+    },
+    "6283896977294@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742069661118,
+      "lastbegal": 1742069661118,
+      "lastrampok": 1742069661118
+    },
+    "6281586973378@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742069951282,
+      "lastbegal": 1742069951282,
+      "lastrampok": 1742069951282
+    },
+    "6281543107332@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742070034134,
+      "lastbegal": 1742070034134,
+      "lastrampok": 1742070034134
+    },
+    "6283829332498@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742070825012,
+      "lastbegal": 1742070825012,
+      "lastrampok": 1742070825012
+    },
+    "6285720087283@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742070888004,
+      "lastbegal": 1742070888004,
+      "lastrampok": 1742070888004
+    },
+    "62882021373719@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742071689270,
+      "lastbegal": 1742071689270,
+      "lastrampok": 1742071689270
+    },
+    "6282235317714@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742071695530,
+      "lastbegal": 1742071695530,
+      "lastrampok": 1742071695530
+    },
+    "6281358681232@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742071700038,
+      "lastbegal": 1742071700038,
+      "lastrampok": 1742071700038
+    },
+    "6283138504432@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742071717004,
+      "lastbegal": 1742071717004,
+      "lastrampok": 1742071717004
+    },
+    "6285754928027@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742075856312,
+      "lastbegal": 1742075856312,
+      "lastrampok": 1742075856312
+    },
+    "6285823321618@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50,
+      "uang": 10000,
+      "lastclaim": 1742075880083,
+      "lastbegal": 1742075880083,
+      "lastrampok": 1742075880083
+    }
+  },
+  "game": {
+    "suit": [],
+    "menfes": [],
+    "tekateki": [],
+    "akinator": [],
+    "tictactoe": [],
+    "tebaklirik": [],
+    "kuismath": [],
+    "tebaklagu": [],
+    "tebakkata": [],
+    "family100": [],
+    "susunkata": [],
+    "tebakbom": [],
+    "tebakkimia": [],
+    "caklontong": [],
+    "tebakangka": [],
+    "tebaknegara": [],
+    "tebakgambar": [],
+    "tebakbendera": []
+  },
+  "groups": {
+    "120363407354943640@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363264772554843@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363404683612045@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "6289507620941-1635840143@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363393801402846@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363286346842418@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363394348426695@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363411579651941@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    },
+    "120363413745977612@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    }
+  },
+  "database": {
+    "apis": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/30588784_3881707962096491_1040162873973995486_n.enc?ccb=11-4&oh=01_Q5AaIfZFpLvSftYLVkPvyeVI4KiliAbxebBt6cH6N0HiJJKz&oe=67FC6271&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "B5MYTTuKS6gtCmWHBXzRcKxt/SGQHqggM5BDtfwHDMc=",
+        "fileEncSha256": "PVq4wPSAGfUHq79EKNTjn7KZ7nb6fL3fAwz5gH9/UMg=",
+        "mediaKey": "V0hALEIg4Y+ZbIP+v3ASaHxAFzUbQiwiXhMLOqyPz34=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/30588784_3881707962096491_1040162873973995486_n.enc?ccb=11-4&oh=01_Q5AaIfZFpLvSftYLVkPvyeVI4KiliAbxebBt6cH6N0HiJJKz&oe=67FC6271&_nc_sid=5e03e0",
+        "fileLength": "731838",
+        "mediaKeyTimestamp": "1741859340",
+        "firstFrameLength": 12258,
+        "firstFrameSidecar": "/MBtReX0/BRqdQ==",
+        "isAnimated": true,
+        "stickerSentTs": "1742007752118",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "iky": {
+      "conversation": "apis"
+    }
+  }
+}
