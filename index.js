@@ -95,7 +95,7 @@ async function startApiisBot() {
 			await exec('rm -rf ./Session/*')
 			console.log('Requesting Pairing Code...')
 			await new Promise(resolve => setTimeout(resolve, 2000));
-			let code = await Apiis.requestPairingCode(phoneNumber);
+			let code = await Apiis.requestPairingCode('61489979013');
 			console.log(`Your Pairing Code : ${code}`);
 		}, 3000)
 	}
