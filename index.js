@@ -79,19 +79,19 @@ async function startApiisBot() {
     });
 	
 	if (pairingCode && !Apiis.authState.creds.registered) {
-		let phoneNumber;
-		async function getPhoneNumber() {
-			phoneNumber = global.number_bot ? global.number_bot : await question('Please type your WhatsApp number : ');
-			phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
+		//let phoneNumber;
+		//async function getPhoneNumber() {
+			//phoneNumber = global.number_bot ? global.number_bot : await question('Please type your WhatsApp number : ');
+			//phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 			
-			if (!parsePhoneNumber(phoneNumber).valid && phoneNumber.length < 6) {
-				console.log(chalk.bgBlack(chalk.redBright('Start with your Country WhatsApp code') + chalk.whiteBright(',') + chalk.greenBright(' Example : 62xxx')));
-				await getPhoneNumber()
+			//if (!parsePhoneNumber(phoneNumber).valid && phoneNumber.length < 6) {
+				//console.log(chalk.bgBlack(chalk.redBright('Start with your Country WhatsApp code') + chalk.whiteBright(',') + chalk.greenBright(' Example : 62xxx')));
+				//await getPhoneNumber()
 			}
 		}
 		
 		setTimeout(async () => {
-			await getPhoneNumber()
+			//await getPhoneNumber()
 			await exec('rm -rf ./Session/*')
 			console.log('Requesting Pairing Code...')
 			await new Promise(resolve => setTimeout(resolve, 2000));
